@@ -1,0 +1,41 @@
+.sdetail{
+    padding-top: 68px;
+    padding-bottom: 48px;
+    margin-bottom: 20px;
+}
+.sdetail-title-head{
+    text-align: center;
+    margin-bottom: 2%;
+    margin: 0px auto;
+     margin-bottom: 20px; 
+}
+.sdetail-title{
+    text-align: center;
+    margin-bottom: 2%;
+    margin: 0px auto;
+    margin-bottom: 20px; 
+}
+.detail-para{
+    padding: 0 100px;
+}
+.cnfm-form{
+    padding: 0 100px;
+}
+.sdetail-btn{
+  border: 2px solid #865932;
+  outline: none;
+  border-radius: 50px;
+  font-weight: 500;
+  padding: 10px 30px;
+  margin: 10px;
+}
+.sdetail-btn:hover{
+  background-color: #865932;
+  color: #fff;
+  border: 2px solid #fff;
+  outline: none;
+  border-radius: 50px;
+  font-weight: 500;
+  padding: 10px 30px;
+  margin: 10px;
+}

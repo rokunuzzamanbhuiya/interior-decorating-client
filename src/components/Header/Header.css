@@ -1,0 +1,10 @@
+.header-bg{
+    background-color: aliceblue;
+    border-bottom: 1px solid #ad9271;
+}
+#responsive-navbar-toggle{
+    background-color:  #ad9271; 
+}
+.navbar-dark .navbar-toggler-icon{
+    background-color:  #ad9271; 
+}

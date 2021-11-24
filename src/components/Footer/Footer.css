@@ -1,0 +1,15 @@
+.footer_color {
+  background-color: aliceblue;
+}
+.footer-bottom {
+  background-color: #ffffff;
+}
+.text-color{
+  color: #865932;
+}
+.socialicon{
+  font-size: 17px;
+  color: #865932;
+  cursor: pointer;
+  padding-left: 15px;
+}
